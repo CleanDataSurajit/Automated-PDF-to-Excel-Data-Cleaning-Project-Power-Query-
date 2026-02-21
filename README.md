@@ -1,0 +1,2 @@
+# Automated-PDF-to-Excel-Data-Cleaning-Project-Power-Query-
+The source data was provided in five separate PDF files from an ITcompany.Each file contained structured report data,but there were multiple formatting issues that made the data unsuitable for direct analysis.My goal was to convert these unstructured PDF files into a clean,professional,and analysis-ready Excel dataset through an automated workflow.
